@@ -1,0 +1,10 @@
+3d931ceeb0786962e72be568f8f90d0f *DESCRIPTION
+98bddb344513894153da569c58ff7fdb *LICENSE
+eb887abf96d01e8b2a746eb0b64f0e5e *NAMESPACE
+69bb3565ed03da0640baeaf283fe05b0 *R/germanpolls.R
+51879d524104ed748927586238eb8757 *R/get_data_from_xml_de.R
+41ecb25129fa6577eaef00ffeef3f314 *R/get_data_from_xml_laender.R
+c9a5074f286719c757b3048a5f76633a *R/quiet_notes_pkgcheck.R
+d89e074a3aa4956d2c90e6d149e7d441 *man/germanpolls.Rd
+0cee7797d2ae12450f6d863856620d38 *man/get_data_from_xml_de.Rd
+de2054178464aecd54ee4015a0720d01 *man/get_data_from_xml_laender.Rd
